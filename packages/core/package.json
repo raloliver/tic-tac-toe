@@ -1,0 +1,21 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --collectCoverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "eslint": "^10.15.0",
+    "eslint-config-custom": "*",
+    "jest": "^30.5.2",
+    "ts-jest": "^29.4.15",
+    "tsconfig": "*",
+    "typescript": "^6.0.3"
+  }
+}
