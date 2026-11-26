@@ -1,5 +1,6 @@
+import Board from './game/Board';
+import Cell from './shared/Cell';
 import Player from './player/Player';
 import { PlayerType } from './shared/PlayerType';
-import Cell from './shared/Cell';
 
-export { Player, PlayerType, Cell };
+export { Board, Cell, Player, PlayerType };
