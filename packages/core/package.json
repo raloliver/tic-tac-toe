@@ -12,10 +12,10 @@
   "devDependencies": {
     "@types/jest": "^30.0.0",
     "eslint": "^10.15.0",
-    "eslint-config-custom": "*",
+    "eslint-config": "*",
     "jest": "^30.5.2",
     "ts-jest": "^29.4.15",
-    "tsconfig": "*",
+    "typescript-config": "*",
     "typescript": "^6.0.3"
   }
 }
